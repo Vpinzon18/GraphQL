@@ -1,0 +1,21 @@
+{
+  "name": "crmcurso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Victor Pinzon",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
